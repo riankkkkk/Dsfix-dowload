@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    font-family: fantasy;
+    background-image: linear-gradient(to left,#fd2d79,#22c1c3);
+
+    
+    
+}
+
+body h1{
+    margin-top: 200px;
+}
+button{
+    background-color: greenyellow;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    font-family: fantasy;
+}
